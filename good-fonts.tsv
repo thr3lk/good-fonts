@@ -1,20 +1,20 @@
 family 	variants	tags	license 	website	source	foundry
 
-Input	mono, sans, serif	code, data, italics, many weights, ligatures	proprietary: FREE PERSONAL USE https://input.djr.com/license/	https://input.djr.com/		DJR & Font Bureau
-Plex	mono, sans, serif, math, sans arabic, sans condensed, sans Devanagari, sans Hebrew, sans Japanese, sans Korean, sans Chinese TC, sans Chinese SC, sans Thai, sans Thai Looped 		OFL 1.1	https://www.ibm.com/plex/	https://github.com/IBM/plex	IBM
+Input	mono, sans, serif	code, data, italics, many weights, ligatures	proprietary: FREE PERSONAL USE https://input.djr.com/license/	https://input.djr.com/	-	DJR & Font Bureau
+Plex	mono, sans, serif, math, sans arabic, sans condensed, sans Devanagari, sans Hebrew, sans Japanese, sans Korean, sans Chinese TC, sans Chinese SC, sans Thai, sans Thai Looped 	-	OFL 1.1	https://www.ibm.com/plex/	https://github.com/IBM/plex	IBM
 Maple Mono	mono, mono NF, mono NF CN,	italics, variable, round, ligatures	OFL 1.1	 https://font.subf.dev/en/	https://github.com/subframe7536/maple-font	subframe
-Publi Fluor Chrystelise			CC4r	http://publifluor.osp.kitchen/en/	https://gitlab.constantvzw.org/osp/foundry.crickx/	Open Source Publishing Foundry
-Hack					https://github.com/source-foundry/Hack
-Inconsolata				http://levien.com/type/myfonts/inconsolata.html
-Consolas				https://www.fonts.com/font/microsoft-corporation/consolas/regular
-Luculent				http://eastfarthing.com/luculent/
-Envy Code R				https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released
-Fira Code					https://github.com/tonsky/FiraCode
-DejaVu Sans Mono				https://www.fontsquirrel.com/fonts/dejavu-sans-mono
-Bitstream Vera					http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/
-Iosevka					https://github.com/be5invis/Iosevka
-Mononoki					https://madmalik.github.io/mononoki/
-Source Code Pro					https://github.com/adobe-fonts/source-code-pro	Adobe
+Publi Fluor Chrystelise	-	-	CC4r	http://publifluor.osp.kitchen/en/	https://gitlab.constantvzw.org/osp/foundry.crickx/	Open Source Publishing Foundry
+Hack	-	-	-	-	https://github.com/source-foundry/Hack	-
+Inconsolata	-	-	-	http://levien.com/type/myfonts/inconsolata.html	-	-
+Consolas	-	-	-	https://www.fonts.com/font/microsoft-corporation/consolas/regular	-	-
+Luculent	-	-	-	http://eastfarthing.com/luculent/	-	-
+Envy Code R	-	-	-	https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released	-	-
+Fira Code	-	-	-	-	https://github.com/tonsky/FiraCode	-
+DejaVu Sans Mono	-	-	-	https://www.fontsquirrel.com/fonts/dejavu-sans-mono	-	-
+Bitstream Vera	-	-	-	-	http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/	-
+Iosevka	-	-	-	-	https://github.com/be5invis/Iosevka	-
+Mononoki					https://madmalik.github.io/mononoki/	-
+Source Code Pro	-	-	-	-	https://github.com/adobe-fonts/source-code-pro	Adobe
 Noto Mono	mono, sans, serif	extend language support	OFL 1.1	https://www.google.com/get/noto/	https://github.com/notofonts/adlam	Google
 Young Serif	serif		OFL 1.1	https://noirblancrouge.com/fonts/young-serif/	https://github.com/noirblancrouge/YoungSerif	NoirBlancRouge
-Poppins	sans		OFL 1.1	https://www.indiantypefoundry.com/fonts/poppins		ITF
+Poppins	sans	-	OFL 1.1	https://www.indiantypefoundry.com/fonts/poppins	-	ITF
