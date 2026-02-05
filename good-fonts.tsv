@@ -1,20 +1,26 @@
 family 	variants	tags	license 	website	source	foundry
 
-Input	mono, sans, serif	code, data, italics, many weights, ligatures	proprietary: FREE PERSONAL USE https://input.djr.com/license/	https://input.djr.com/	-	DJR & Font Bureau
-Plex	mono, sans, serif, math, sans arabic, sans condensed, sans Devanagari, sans Hebrew, sans Japanese, sans Korean, sans Chinese TC, sans Chinese SC, sans Thai, sans Thai Looped 	-	OFL 1.1	https://www.ibm.com/plex/	https://github.com/IBM/plex	IBM
+Input	mono, sans, serif	code, data, italics, many weights, ligatures	proprietary: FREE PERSONAL USE https://input.djr.com/license/	https://input.djr.com/		DJR & Font Bureau
+Plex	mono, sans, serif, math, sans arabic, sans condensed, sans Devanagari, sans Hebrew, sans Japanese, sans Korean, sans Chinese TC, sans Chinese SC, sans Thai, sans Thai Looped 	ligatures, code, data, extend language support	OFL 1.1	https://www.ibm.com/plex/	https://github.com/IBM/plex	IBM
 Maple Mono	mono, mono NF, mono NF CN,	italics, variable, round, ligatures	OFL 1.1	 https://font.subf.dev/en/	https://github.com/subframe7536/maple-font	subframe
-Publi Fluor Chrystelise	-	-	CC4r	http://publifluor.osp.kitchen/en/	https://gitlab.constantvzw.org/osp/foundry.crickx/	Open Source Publishing Foundry
-Hack	-	-	-	-	https://github.com/source-foundry/Hack	-
-Inconsolata	-	-	-	http://levien.com/type/myfonts/inconsolata.html	-	-
-Consolas	-	-	-	https://www.fonts.com/font/microsoft-corporation/consolas/regular	-	-
-Luculent	-	-	-	http://eastfarthing.com/luculent/	-	-
-Envy Code R	-	-	-	https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released	-	-
-Fira Code	-	-	-	-	https://github.com/tonsky/FiraCode	-
-DejaVu Sans Mono	-	-	-	https://www.fontsquirrel.com/fonts/dejavu-sans-mono	-	-
-Bitstream Vera	-	-	-	-	http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/	-
-Iosevka	-	-	-	-	https://github.com/be5invis/Iosevka	-
-Mononoki					https://madmalik.github.io/mononoki/	-
-Source Code Pro	-	-	-	-	https://github.com/adobe-fonts/source-code-pro	Adobe
+Publi Fluor Chrystelise	display, experimental		CC4r	http://publifluor.osp.kitchen/en/	https://gitlab.constantvzw.org/osp/foundry.crickx/	Open Source Publishing Foundry
+Inconsolata	mono, sans, serif		OFL	http://levien.com/type/myfonts/inconsolata.html	https://github.com/google/fonts/tree/main/ofl/inconsolata	Raph Levien
+DejaVu	mono, sans, serif		https://dejavu-fonts.github.io/License.html	https://dejavu-fonts.github.io	https://github.com/dejavu-fonts/dejavu-fonts	dejavu fonts
+Bitstream Vera			https://web.archive.org/web/20210314185159/http://www.gnome.org/fonts/#Final_Bitstream_Vera_Fonts		http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/	Bitstream
+Iosevka	mono		OFL 1.1	https://typeof.net/Iosevka/	https://github.com/be5invis/Iosevka	Belleve Invis
+Mononoki	mono		OFL 1.1	https://madmalik.github.io/mononoki/	https://github.com/madmalik/mononoki	madmalik
+Source Code Pro	mono		OFL 1.1	https://adobe-fonts.github.io/source-code-pro/	https://github.com/adobe-fonts/source-code-pro	Adobe
 Noto Mono	mono, sans, serif	extend language support	OFL 1.1	https://www.google.com/get/noto/	https://github.com/notofonts/adlam	Google
 Young Serif	serif		OFL 1.1	https://noirblancrouge.com/fonts/young-serif/	https://github.com/noirblancrouge/YoungSerif	NoirBlancRouge
-Poppins	sans	-	OFL 1.1	https://www.indiantypefoundry.com/fonts/poppins	-	ITF
+Poppins	sans	round, many weights	OFL 1.1	https://www.indiantypefoundry.com/fonts/poppins		ITF
+Monocraft	mono	bitmap	OFL 1.1		https://github.com/IdreesInc/Monocraft	IdreesInc
+Miracode	mono		OFL 1.1		https://github.com/IdreesInc/Miracode	IdreesInc
+MonoCode	mono		OFL 1.1		https://github.com/aaronmbos/monocode	aaronmbos
+Fira Code	mono	ligatures	OFL 1.1		https://github.com/tonsky/FiraCode	tonsky
+Fira	mono, sans		OFL 1.1	https://mozilla.github.io/Fira/	https://github.com/mozilla/Fira	Mozzila
+Scientifica	mono	bitmap, condensed, code, data, math			https://github.com/oppiliappan/scientifica	oppiliappan
+JetBrains Mono	mono	ligatures, code, data, extend language support 	OFL 1.1	https://www.jetbrains.com/lp/mono/	https://github.com/JetBrains/JetBrainsMono	JetBrains
+Hack	mono		MIT	http://sourcefoundry.org/hack/	https://github.com/source-foundry/Hack	Source Foundry
+Consolas	mono		proprietary 	https://learn.microsoft.com/en-us/typography/font-list/consolas		Microsoft
+Luculent	mono		OFL 1.1	http://eastfarthing.com/luculent/		Andrew Kensler
+Envy Code R	mono		OFL 1.1	https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released	https://github.com/damieng/envy-code-r	Damien Guard
